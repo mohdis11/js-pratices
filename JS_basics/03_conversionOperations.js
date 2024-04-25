@@ -91,5 +91,5 @@ console.log("1" + 2 + 2);
 console.log(1 + 2 + "2");// In this form the complier convert the expression from left to right
 
 console.log((3 + 4) * 6 % 5); // In this we mainly use pedmas rule in any language
-
+//
 
